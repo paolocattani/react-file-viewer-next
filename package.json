@@ -2,6 +2,12 @@
   "name": "react-file-viewer-next",
   "version": "0.0.1-development",
   "private": false,
+  "author": "Paolo Cattani <paolocattani0501@gmail.com>",
+  "homepage": "https://github.com/paolocattani/react-file-viewer-next#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/paolocattani/react-file-viewer-next.git"
+  },
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.4.0",
